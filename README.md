@@ -5,7 +5,8 @@ the obstacles are randomly spwaned
 
 Created by Unity Game Enigine
 
-![FlyingBat_gif](https://github.com/ReemAlshehab/Flying_bat/assets/82517965/e99a2113-b983-4b9f-b5b6-43ad51b6b425)
+[game.webm](https://github.com/ReemAlshehab/Flying_bat/assets/82517965/bed3da2f-d84c-4da0-8444-9d236132b582)
+
 
 you can also collect coins to increase your score
 
