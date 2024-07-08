@@ -12,6 +12,7 @@ public class BatMovement1 : MonoBehaviour
     public float overFly = 17.6f;
     public AudioClip wind;
     public Animator anim;
+    public float speed;
 
     // Start is called before the first frame update
 
